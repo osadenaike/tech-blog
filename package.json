@@ -2,7 +2,7 @@
   "name": "tech-blog",
   "version": "1.0.0",
   "description": "## Description:",
-  "main": "server.js",
+  "main": "server/server.js",
   "devDependencies": {},
   "scripts": {
     "start": "node server.js"
